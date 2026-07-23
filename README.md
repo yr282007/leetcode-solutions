@@ -11,6 +11,7 @@ leetcode solutions
 | [0088-merge-sorted-array](https://github.com/yr282007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yr282007/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/yr282007/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ leetcode solutions
 | [0013-roman-to-integer](https://github.com/yr282007/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yr282007/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/yr282007/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ leetcode solutions
 | [0088-merge-sorted-array](https://github.com/yr282007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yr282007/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/yr282007/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +63,5 @@ leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/yr282007/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
