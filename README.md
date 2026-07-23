@@ -8,6 +8,7 @@ leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/yr282007/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yr282007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/yr282007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,12 @@ leetcode solutions
 | ------- |
 | [0175-combine-two-tables](https://github.com/yr282007/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/yr282007/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yr282007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yr282007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
