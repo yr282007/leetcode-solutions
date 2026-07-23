@@ -9,11 +9,13 @@ leetcode solutions
 | [0001-two-sum](https://github.com/yr282007/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yr282007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/yr282007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yr282007/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yr282007/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,13 @@ leetcode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yr282007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yr282007/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
